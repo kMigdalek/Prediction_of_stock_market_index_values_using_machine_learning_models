@@ -1,7 +1,7 @@
 
 ## Prediction_of_stock_market_index_values_using_machine_learning_models
 
-### The project was developed as part of a **Data Science postgraduate thesis at AGH University of Science and Technology.**
+The project was developed as part of a **Data Science postgraduate thesis at AGH University of Science and Technology.**
 
 ## Project Overview
 
